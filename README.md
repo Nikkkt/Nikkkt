@@ -1,4 +1,4 @@
-### Ukrainian developer
+<h2><b>Ukrainian developer</b></h2>
 <code>🐍 Backend</code> 
 <code>🏢 IT Step</code> 
 <code>📱 [@NikitaTerpilovskyi](https://t.me/NikitaTerpilovskyi)</code> 
