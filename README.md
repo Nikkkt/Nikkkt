@@ -30,7 +30,7 @@ Here are some of the technologies and tools I work with:
 Feel free to connect with me!
 
 - 📧 Email: [work.terpilovskyi@gmail.com](mailto:work.terpilovskyi@gmail.com)
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nikita-terpilovsky/)
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nikita-terpilovsky/)
 
 ---
 
