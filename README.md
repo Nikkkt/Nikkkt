@@ -31,6 +31,7 @@ Feel free to connect with me!
 
 - 📧 Email: [work.terpilovskyi@gmail.com](mailto:work.terpilovskyi@gmail.com)
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nikita-terpilovsky/)
+- 📲 Telegram [Telegram account](https://t.me/NikitaTerpilovskyi)
 
 ---
 
