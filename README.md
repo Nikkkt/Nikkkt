@@ -7,17 +7,17 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with a love for
 - 🌍 I’m based in Odesa, Ukraine
 - 🎓 I study in Igor Sikorsky KPI on faculty of Applied Mathematics
 - 💼 Currently working at Freelancing
-- 👨‍💻 I love working with Python, C#, React
+- 👨‍💻 I love working with C#, Python, JavaScript
 - 🚀 I’m passionate about Web development
 
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
-- **Languages:** JavaScript, Python, C#, C++, Java
-- **Frameworks:** React, Angular, ASP.NET, Flask
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, VS Code
+- **Languages:** C#, Python, JavaScript, C++, Java
+- **Frameworks:** ASP.NET, React, Flask, FastAPI
+- **Databases:** MS SQL, PostgreSQL, NeonDB
+- **Tools:** Git, Rider, VS Code, Slack
 
 ## 📈 GitHub Stats
 
